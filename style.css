@@ -1,0 +1,45 @@
+div {
+	max-height: 50px;
+	min-height: 30px;
+}
+
+label {
+	display: inline-block;
+	float: left;
+	clear: left;
+	width: 250px;
+	text-align: right;
+}
+
+#drop-down {
+	display: inline-block;
+	float: left;
+}
+
+#wrapper {
+	text-align: center;
+}
+
+select {
+	display: inline-block;
+	float: left;
+}
+
+body {
+	background-color: #F9FDFF;
+	color: black;
+	padding: 20px;
+}
+
+#submit, #dropdown {
+	background-color: white;
+}
+
+h1, p {
+	text-align: center;
+}
+
+#survey-form {
+	background-color: #FFDFDF;
+	padding: 20px;
+}
